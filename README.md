@@ -4,7 +4,7 @@
 
 -----
 
-### 🛠️ Core Engine (Tech Stack)
+### Core Engine (Tech Stack)
 
 | Domain | Technologies |
 | :--- | :--- |
