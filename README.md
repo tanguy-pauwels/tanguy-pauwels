@@ -66,4 +66,4 @@ Curently studying JEPA Architecture.
 
   * **Location:** (42), France
   * **Email:** [pauwelstanguy@protonmail.com](mailto:pauwelstanguy@protonmail.com)
-  * **Portfolio:** [pauwelstanguy.fr](https://www.google.com/search?q=https://pauwelstanguy.fr)
+  * **Portfolio:** [pauwelstanguy.fr](https://tanguy-pauwels.fr)
