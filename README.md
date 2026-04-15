@@ -10,9 +10,9 @@
 | :--- | :--- |
 | **Languages** | Python, Rust, TypeScript, SQL |
 | **AI / ML** | YOLOv8, XGBoost, TATR (Fine-tuning), NLP (CamemBERT), Vector Sim. |
-| **Backend** | Node.js, Nuxt3, FastAPI, Ruby on Rails, PostgreSQL, Redis |
+| **Backend** | Node.js, FastAPI, Ruby on Rails, PostgreSQL, Redis |
 | **Infrastructure** | **vst-cli** (Pragmatic Deployment), Docker, GitHub Actions, Nginx, Linux |
-
+Curently studying JEPA Architecture.
 -----
 
 ### Featured Schematics (Key Projects)
