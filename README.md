@@ -51,7 +51,7 @@
 ```bash
 [2024-PRESENT] > Independent ML & Software Engineer
                > Lead Architect on InsureflowAi & vst-cli.
-               > Specialized in complex data extraction and technical SEO.
+               > Specialized in complex data extraction and technical R&D.
 
 [2023-2024]    > Full Stack Dev & Data Analyst @ Hookto (Xefi Group)
                > ERP Architecture, Micro-services, Business Intelligence.
